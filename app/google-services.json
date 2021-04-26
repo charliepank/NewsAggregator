@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "907772583332",
+    "project_id": "newsaggregator-5bcdf",
+    "storage_bucket": "newsaggregator-5bcdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907772583332:android:7c6fb7c7570c6022253531",
+        "android_client_info": {
+          "package_name": "com.example.newsaggregator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907772583332-svqhpkb6j11ui29jij4vlhbksr2ks09e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgNw1sAr2Br0RFw_TEvDef8F8C-F7UwDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907772583332-svqhpkb6j11ui29jij4vlhbksr2ks09e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
